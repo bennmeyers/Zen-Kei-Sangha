@@ -1,0 +1,53 @@
+@media screen and (min-width: 576px) {
+  /* Small devices (landscape phones, 576px and up) */ }
+@media screen and (min-width: 768px) {
+  /* Medium devices (tablets, 768px and up) */ }
+@media screen and (min-width: 992px) {
+  /* Large devices (desktops, 992px and up) */ }
+@media screen and (min-width: 1200px) {
+  /* Extra large devices (large desktops, 1200px and up) */ }
+body {
+  color: #3c3c3c;
+  margin: 0;
+  padding: 0;
+  font: 15px Helvetica, Geneva, sans-serif; }
+
+a {
+  color: #428bca; }
+
+header {
+  margin-bottom: 16px;
+  -webkit-box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1) ;
+  -moz-box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1) ;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1) ; }
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes zoomin {
+  from {
+    height: 0px;
+    width: 0px; }
+  to {
+    height: 29px;
+    width: 134px; } }
+/* Standard syntax */
+@keyframes zoomin {
+  from {
+    height: 0px;
+    width: 0px; }
+  to {
+    height: 29px;
+    width: 134px; } }
+.status {
+  color: #ca8b42;
+  font-size: 70%;
+  text-transform: uppercase; }
+
+#main_content h1 {
+  margin-top: 0;
+  padding-top: 0; }
+
+#main_content {
+  margin: 0 auto;
+  text-align: center; }
+
+/*# sourceMappingURL=custom.css.map */
