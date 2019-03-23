@@ -1,5 +1,3 @@
-@media screen and (min-width: 576px) {
-  /* Small devices (landscape phones, 576px and up) */ }
 @media screen and (min-width: 768px) {
   /* Medium devices (tablets, 768px and up) */ }
 @media screen and (min-width: 992px) {
@@ -21,6 +19,10 @@ header {
   -moz-box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1) ;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1) ; }
 
+@media screen and (max-width: 576px) {
+  /* Small devices (landscape phones, 576px and down) */
+  img {
+    width: 100%; } }
 /* Chrome, Safari, Opera */
 @-webkit-keyframes zoomin {
   from {
