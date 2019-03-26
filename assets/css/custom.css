@@ -5,10 +5,13 @@
 @media screen and (min-width: 1200px) {
   /* Extra large devices (large desktops, 1200px and up) */ }
 body {
-  color: #3c3c3c;
+  color: black;
   margin: 0;
   padding: 0;
   font: 18px "Bubbler One", Helvetica, Geneva, sans-serif; }
+
+address {
+  color: #666666; }
 
 hr {
   border-top: 1px solid #ccc; }
@@ -56,6 +59,6 @@ header {
   text-align: center; }
 
 #main_content p {
-  text-align: left; }
+  text-align: justify; }
 
 /*# sourceMappingURL=custom.css.map */
