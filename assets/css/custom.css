@@ -19,11 +19,8 @@ hr {
 a {
   color: #428bca; }
 
-header {
-  margin-bottom: 16px;
-  -webkit-box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1) ;
-  -moz-box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1) ;
-  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1) ; }
+footer {
+  text-align: center; }
 
 @media screen and (max-width: 576px) {
   /* Small devices (landscape phones, 576px and down) */
