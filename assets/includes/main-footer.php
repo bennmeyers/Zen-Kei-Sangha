@@ -4,7 +4,7 @@ BEST PRACTICE: A copyright with a year range protects content.
 */
 ?>
 <footer>
-    <a href="http://www.paypal.me/zenkeisangha">Donate to us!</a>
+    <a class="btn btn-primary" href="http://www.paypal.me/zenkeisangha">Donate to us!</a>
     <div class="social">
         <a href="https://www.facebook.com/groups/169278456552524/" target="blank"><i class="fab fa-facebook"></i></a>
         <a href="https://twitter.com/ZenKeiSangha" target="blank"><i class="fab fa-twitter"></i></a>
