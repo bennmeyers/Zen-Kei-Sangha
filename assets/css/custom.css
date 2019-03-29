@@ -22,6 +22,17 @@ a {
 footer {
   text-align: center; }
 
+.social {
+  margin: .5em 0; }
+
+.social a {
+  color: #000;
+  font-size: 2em;
+  margin: 0 0 0 1em; }
+
+.social a:first-child {
+  margin-left: 0; }
+
 @media screen and (max-width: 576px) {
   /* Small devices (landscape phones, 576px and down) */
   img {
