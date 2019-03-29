@@ -3,12 +3,13 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
     <meta name="viewport" content="width=device-width">
+    <meta name="keywords" value="Harm Reduction, Zendo Without Walls, Jana Drakka, SRO, Memorials, Meditation, LGBTQ, Addiction, Caring, Invisible, Public, Dharma, Glide, Homeless, Buddism, Soto Zen">
     <?php
     /*
     BEST PRACTICE: The viewport meta tag is needed to make the page responsive.
     */
     ?>
-    <title></title>
+    <title>Zen Kei Sangha</title>
     <?php
     /*
     BEST PRACTICE: Include Cascading stylesheets before the content has been loaded.
