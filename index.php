@@ -31,6 +31,7 @@ include("assets/includes/global-header.php"); // HTML head ?>
       <p>
         We’re also happy to arrange new meditation groups: just <a href="mailto:zenkeisangha@gmail.com">contact us</a> for more information at <b>(415) 349-2491</b>.
       </p>
+      <hr />
     </div><!-- #main_content -->
   </div><!-- #content -->
   <?php include("assets/includes/main-footer.php"); // Main foot ?>
