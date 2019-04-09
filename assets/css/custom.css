@@ -20,9 +20,16 @@ hr {
 a {
   color: #428bca; }
 
-footer {
-  text-align: center;
-  margin: 1em 0; }
+header h1 {
+  color: #000; }
+
+header, footer {
+  color: #888;
+  margin: 1em 0;
+  text-align: center; }
+
+header a {
+  color: #888; }
 
 .social {
   margin: .5em 0; }

@@ -3,11 +3,14 @@
 Including partial files most Content Management Systems (CMSs) divide out
 */
 include("assets/includes/global-header.php"); // HTML head ?>
-
+<header>
+  <h1>Zen Kei Sangha</h1>
+  <a href="mailto:zenkeisangha@gmail.com">zenkeisangha@gmail.com</a>
+  <br /><b>415 349-3491</b>
+</header>
 <div id="homepage" class="container">
   <div id="content">
     <div id="main_content">
-      <h1>Zen Kei Sangha</h1>
       <a href="http://www.paypal.me/zenkeisangha"><img src="/assets/img/logo.gif" alt="Zen Kei Sangha Logo"></a>
       <p>Zen Kei Sangha is a collection of individuals forming a Sangha with the intention of learning about dharma and acting it out in a way which improves the lives of the homeless, those addicted to substances, or are not otherwise recognized in a society in which they don't feel comfortable. The Sangha offers three weekly public meditations, Harm Reduction Meditation, hospice support, and memorials for residents of Single Room Occupancies​ (SROs).</p>
       <p>We specialize in <b>Harm Reduction</b> meditation.</p>
