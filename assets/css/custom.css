@@ -14,6 +14,11 @@ address, a, a:visited {
   color: #666666;
   text-decoration: none; }
 
+.navbar-nav {
+  float: none;
+  margin: 0 auto;
+  width: 325px; }
+
 hr {
   border-top: 1px solid #ccc; }
 
