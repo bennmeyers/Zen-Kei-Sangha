@@ -1,3 +1,3 @@
 <header>
-  <h1>Zen Kei Sangha</h1>
+  <h1><a href="index.php">Zen Kei Sangha</a></h1>
 </header>
