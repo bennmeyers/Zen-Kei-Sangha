@@ -27,7 +27,7 @@ include("assets/includes/main-header.php"); // Main head ?>
       </address>
       <hr />
       <p>
-        You can also find us on Sunny Tuesdays and Thursdays 1:30p-2:30p in Howard & Langton Community Garden
+        You can also find us on Sunny Tuesdays and Thursdays 1:30p-2:30p in Howard &amp; Langton Community Garden
       </p>
       <address>
         <a href="https://www.google.com/maps/place/Howard+St+%26+Langton+St,+San+Francisco,+CA+94103/@37.7775491,-122.4121334,17z/data=!3m1!4b1!4m5!3m4!1s0x80858083007ff7c1:0x6f4fb388012d120a!8m2!3d37.7775491!4d-122.4099447" onclick="ga('send','location','External','Link','Garden');" target="_blank">Howard St & Langton St
@@ -35,7 +35,7 @@ include("assets/includes/main-header.php"); // Main head ?>
       </address>
       <hr />
       <p>
-        We’re also happy to arrange new meditation groups: just <a href="mailto:zenkeisangha@gmail.com" onclick="ga('send','location','Internal','Link','Contact');">contact us</a> for more information at <b>(415) 349-2491</b>.
+        We’re also happy to arrange new meditation groups: just <a href="contact.php" onclick="ga('send','location','Internal','Link','Contact');">contact us</a> for more information.
       </p>
       <hr />
     </div><!-- #main_content -->

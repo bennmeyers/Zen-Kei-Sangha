@@ -4,7 +4,7 @@ Including partial files most Content Management Systems (CMSs) divide out
 */
 include("assets/includes/global-header.php"); // HTML head
 include("assets/includes/main-header.php"); // Main head ?>
-<div id="avbout" class="container">
+<div id="about" class="container">
   <div id="content">
     <div id="main_content">
       <main>

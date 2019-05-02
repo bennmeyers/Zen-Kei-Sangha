@@ -7,8 +7,8 @@ include("assets/includes/main-header.php"); // Main head ?>
   <div id="form" class="container">
     <?php
       $to = 'zenkeisangha@gmail.com ';
-      $subject = (isset($_POST['subject'])) ? $_POST['subject'] : 'test subject';
-      $message = (isset($_POST['field1'])) ? $_POST['field1'] : 'Test Body';
+      $subject = (isset($_POST['subject'])) ? $_POST['subject'] : 'Test Subject';
+      $message = (isset($_POST['body'])) ? $_POST['body'] : 'Test Question';
       if (isset($_POST['from'])) {
         $headers = 'From: ' . $_POST['from'] . "\r\n" .
           'Reply-To: ' . $_POST['from'] . "\r\n" .
@@ -23,17 +23,26 @@ include("assets/includes/main-header.php"); // Main head ?>
     ?>
       <div id="content">
         <div id="main_content">
-          <a href="mailto:zenkeisangha@gmail.com">zenkeisangha@gmail.com</a>
-          <br /><b>415 349-3491</b>
           <h1>contact</h1>
           <div>
             <form action="contact.php" method="POST">
-              <input type="text" name="subject" id="subject" value="subject" placeholder="subject">
-              <input type="text" name="field1" id="body" value="" placeholder="Type an Item (e.g. Item1)">
-              <input type="text" name="from" id="from" value="you@example.com" placeholder="From Email">
-              <input type="submit" name="submit" id="submit" value="submit">
+              <div class="form-group">
+                <label for="subject">Subject</label>
+                <input type="text" class="form-control" placeholder="subject" id="subject">
+              </div>
+              <div class="form-group">
+                <label for="from">Email</label>
+                <input type="email" class="form-control" name="from" id="from" value="" placeholder="Your Email">
+              </div>
+              <div class="form-group">
+                <label for="body">Question</label>
+                <textarea class="form-control" rows="3" name="body" id="body" placeholder="Question"></textarea>
+              </div>
+              <input type="submit" name="submit" id="submit" value="submit" class="btn btn-default">
             </form>
           </div>
+          <a href="mailto:zenkeisangha@gmail.com">zenkeisangha@gmail.com</a>
+          <br /><b>415 349-3491</b>
         </div><!-- #main_content -->
         <?php include("assets/includes/sub-nav.php"); ?>
       </div><!-- #content -->

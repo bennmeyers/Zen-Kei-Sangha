@@ -48,22 +48,6 @@ header, footer {
   /* Small devices (landscape phones, 576px and down) */
   img {
     width: 100%; } }
-/* Chrome, Safari, Opera */
-@-webkit-keyframes zoomin {
-  from {
-    height: 0px;
-    width: 0px; }
-  to {
-    height: 29px;
-    width: 134px; } }
-/* Standard syntax */
-@keyframes zoomin {
-  from {
-    height: 0px;
-    width: 0px; }
-  to {
-    height: 29px;
-    width: 134px; } }
 .status {
   color: #ca8b42;
   font-size: 70%;
@@ -74,8 +58,13 @@ header, footer {
   padding-top: 0; }
 
 #main_content {
-  margin: 0 auto;
+  margin: 0 auto; }
+
+#events #main_content, #about #main_content p, #homepage #main_content {
   text-align: center; }
+
+#main_content form {
+  text-align: left; }
 
 main p {
   text-align: justify; }
