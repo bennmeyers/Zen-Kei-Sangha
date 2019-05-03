@@ -9,7 +9,8 @@ include("assets/includes/main-header.php"); // Main head ?>
     <div id="main_content">
       <hr />
       <p>
-        <b>ZK Formal SF:</b> We meet Mondays 6:30p-7:30p at Glide Community Center room 201 (Maya Angelou Room)
+        <b>ZK Formal SF:</b>
+        We meet Mondays 6:30p-7:30p at Glide Community Center room 201 (Maya Angelou Room)
       </p>
       <address>
         <a href="https://www.google.com/maps/place/333+Taylor+St,+San+Francisco,+CA+94102/@37.7854701,-122.4136567,17z/data=!3m1!4b1!4m5!3m4!1s0x8085808fbf13ac01:0xfa064570280bf978!8m2!3d37.7854701!4d-122.411468" onclick="ga('send','location','External','Link','Glide');" target="_blank">333 Taylor Street
