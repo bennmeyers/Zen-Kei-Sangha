@@ -14,6 +14,7 @@ include("assets/includes/main-header.php"); // Main head ?>
         <li><a href="https://www.maitri.org/" target="_blank">Maitri</a></li>
         <li><a href="http://www.open-zen.org" target="_blank">Open Zen</a></li>
         <li><a href="http://www.popupzendo.org" target="_blank">Pop-up Zendo</a></li>
+        <li><a href="http://www.sfzc.org" target="_blank">San Francisco Zen Center</a></li>
       </ul>
     </div><!-- #main_content -->
   </div><!-- #content -->
