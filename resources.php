@@ -7,6 +7,7 @@ include("assets/includes/main-header.php"); // Main head ?>
 <div id="resources" class="container">
   <div id="content">
     <div id="main_content">
+      <h1>resources</h1>
       <p>These are some of the other services or zendo's we support.</p>
       <ul>
         <li><a href="http://www.floatingzendo.org" target="_blank">Floating Zendo</a></li>
