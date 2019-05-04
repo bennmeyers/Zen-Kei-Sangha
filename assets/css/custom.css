@@ -60,7 +60,7 @@ header, footer {
 #main_content {
   margin: 0 auto; }
 
-#events #main_content, #about #main_content p, #homepage #main_content {
+#events #main_content p, #events #main_content address, #about #main_content p, #homepage #main_content {
   text-align: center; }
 
 #main_content form {

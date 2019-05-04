@@ -7,6 +7,7 @@ include("assets/includes/main-header.php"); // Main head ?>
 <div id="events" class="container">
   <div id="content">
     <div id="main_content">
+      <h1>events</h1>
       <hr />
       <p>
         <b>ZK Formal SF:</b>
