@@ -8,7 +8,6 @@ include("assets/includes/main-header.php"); // Main head ?>
   <div id="content">
     <div id="main_content">
       <h1>events</h1>
-      <hr />
       <p>
         <b>ZK Formal SF:</b>
         We meet Mondays 6:30p-7:30p at Glide Community Center room 201 (Maya Angelou Room)
