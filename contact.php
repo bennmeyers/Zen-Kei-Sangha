@@ -53,8 +53,6 @@ include("assets/includes/main-header.php"); // Main head ?>
               <input type="submit" name="submit" id="submit" value="submit" class="btn btn-default">
             </form>
           </div>
-          <a href="mailto:zenkeisangha@gmail.com">zenkeisangha@gmail.com</a>
-          <br /><b>415 349-3491</b>
         </div><!-- #main_content -->
       </div><!-- #content -->
     <?php
