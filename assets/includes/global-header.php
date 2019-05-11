@@ -3,7 +3,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
     <meta name="viewport" content="width=device-width">
-    <meta name="keywords" value="Harm Reduction, Zendo Without Walls, Jana Drakka, SRO, Memorials, Meditation, LGBTQ, Addiction, Caring, Invisible, Public, Dharma, Glide, Homeless, Buddism, Soto Zen">
+    <meta name="keywords" value="Harm Reduction, Zendo Without Walls, Jana Drakka, SRO, Memorials, American Zen Meditation, Bay Area, Caring, Wheelchairs, LGBTQ, Addiction, Caring, Invisible, Public, Dharma, Glide, Homeless, Buddism, Soto Zen">
     <?php
     /*
     BEST PRACTICE: The viewport meta tag is needed to make the page responsive.
