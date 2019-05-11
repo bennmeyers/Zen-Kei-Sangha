@@ -33,14 +33,23 @@ header, footer {
   margin: 1em 0;
   text-align: center; }
 
+footer {
+  border-top: 1px solid #ccc;
+  padding-top: 16px; }
+
 footer .col-md-6:first-child {
   text-align: left; }
 
 footer .col-md-6:last-child {
   text-align: right; }
 
-footer .nav > li > a {
+footer .nav > li > a, footer .nav > li > a:link, footer .nav > li > a:hover {
+  background: transparent;
+  max-width: 300px;
   padding: 0; }
+
+footer .nav {
+  float: right; }
 
 .social {
   margin: .5em 0; }
