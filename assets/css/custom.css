@@ -14,7 +14,7 @@ address, a, a:visited {
   color: #666666;
   text-decoration: none; }
 
-.navbar-nav {
+header .navbar-nav {
   float: none;
   margin: 0 auto;
   width: 325px; }
@@ -38,6 +38,9 @@ footer .col-md-6:first-child {
 
 footer .col-md-6:last-child {
   text-align: right; }
+
+footer .nav > li > a {
+  padding: 0; }
 
 .social {
   margin: .5em 0; }

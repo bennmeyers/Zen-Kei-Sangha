@@ -16,6 +16,12 @@ BEST PRACTICE: A copyright with a year range protects content.
           <a href="https://twitter.com/ZenKeiSangha" target="blank"><i class="fab fa-twitter"></i></a>
           <a href="https://calendar.google.com/calendar?cid=emVua2Vpc2FuZ2hhQGdtYWlsLmNvbQ" target="blank"><i class="fa fa-calendar-alt" aria-hidden="true"></i></a>
       </div>
+      <ul class="nav">
+        <li><a href="about.php">about</a></li>
+        <li><a href="contact.php">contact</a></li>
+        <li><a href="events.php">events</a></li>
+        <li><a href="resources.php">resources</a></li>
+      </ul>
     </div>
   </div>
   <div id="copyright">&copy; 2012-<?php echo date("Y"); ?></div>
