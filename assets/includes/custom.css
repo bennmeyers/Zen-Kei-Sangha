@@ -33,12 +33,6 @@ header, footer {
   margin: 1em 0;
   text-align: center; }
 
-footer .col-md-6:first-child {
-  text-align: left; }
-
-footer .col-md-6:last-child {
-  text-align: right; }
-
 .social {
   margin: .5em 0; }
 
@@ -60,10 +54,7 @@ footer .col-md-6:last-child {
   text-transform: uppercase; }
 
 #main_content h1 {
-  border-bottom: 1px solid #ccc;
-  margin-bottom: 16px;
   margin-top: 0;
-  padding-bottom: 16px;
   padding-top: 0; }
 
 #main_content {
