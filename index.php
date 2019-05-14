@@ -39,7 +39,6 @@ include("assets/includes/main-header.php"); // Main head ?>
       <p>
         We’re also happy to arrange new meditation groups: just <a href="contact.php" onclick="ga('send','location','Internal','Link','Contact');">contact us</a> for more information.
       </p>
-      <hr />
     </div><!-- #main_content -->
   </div><!-- #content -->
   <?php include("assets/includes/main-footer.php"); // Main foot ?>
