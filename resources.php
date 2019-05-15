@@ -8,6 +8,8 @@ include("assets/includes/main-header.php"); // Main head ?>
   <div id="content">
     <div id="main_content">
       <h1>resources</h1>
+      <p>The Zen Kei Sangha is the next generation of Rev. Jana Drakka's Zenkei Zen Sangha, which continues the tradition of caring Jana established.
+      <br><a href="https://web.archive.org/web/20111110094559/http://janadrakka.com/" target="_blank">Zenkei wayback machine archive</a></p>
       <p>These are some of the other services or zendo's we support.</p>
       <ul>
         <li><a href="http://www.floatingzendo.org" target="_blank">Floating Zendo</a></li>
@@ -17,7 +19,8 @@ include("assets/includes/main-header.php"); // Main head ?>
         <li><a href="http://www.popupzendo.org" target="_blank">Pop-up Zendo</a></li>
         <li><a href="http://www.sfzc.org" target="_blank">San Francisco Zen Center</a></li>
         <li><a href="http://www.tricycle.org" target="_blank">Tricycle</a></li>
-      </ul>
+        <li><a href="http://walkingthroughpeace.com/" target="_blank">WalkingThroughPeace</a></li>
+    </ul>
     </div><!-- #main_content -->
   </div><!-- #content -->
   <?php include("assets/includes/main-footer.php"); // Main foot ?>
