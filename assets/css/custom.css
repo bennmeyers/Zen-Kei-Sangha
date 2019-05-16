@@ -84,13 +84,13 @@ footer .nav > li > a, footer .nav > li > a:link, footer .nav > li > a:hover {
 #main_content {
   margin: 0 auto; }
 
-#events #main_content p, #events #main_content address, #about #main_content p, #homepage #main_content {
+#events #main_content p, #events #main_content address, #homepage #main_content {
   text-align: center; }
 
 #main_content form {
   text-align: left; }
 
-main p {
+#about #main_content main p {
   text-align: justify; }
 
 /*# sourceMappingURL=custom.css.map */
