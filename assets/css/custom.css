@@ -65,10 +65,6 @@ footer .nav > li > a, footer .nav > li > a:link, footer .nav > li > a:hover {
 .social a:first-child {
   margin-left: 0; }
 
-@media screen and (max-width: 576px) {
-  /* Small devices (landscape phones, 576px and down) */
-  img {
-    width: 100%; } }
 .status {
   color: #ca8b42;
   font-size: 70%;
@@ -92,5 +88,15 @@ footer .nav > li > a, footer .nav > li > a:link, footer .nav > li > a:hover {
 
 #about #main_content main p {
   text-align: justify; }
+
+.events-calendar {
+  border: 0;
+  margin: 0 auto;
+  width: 100%; }
+
+@media screen and (max-width: 576px) {
+  /* Small devices (landscape phones, 576px and down) */
+  img {
+    width: 100%; } }
 
 /*# sourceMappingURL=custom.css.map */
