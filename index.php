@@ -19,7 +19,7 @@ include("assets/includes/main-header.php"); // Main head ?>
 
       <hr />
       <p>
-        <b>ZK Formal SF:</b>
+        <b>Zen Kei Meditation Glide:</b>
         We meet Mondays 6:30p-7:30p at Glide Community Center room 201 (Maya Angelou Room)
       </p>
       <address>
@@ -28,7 +28,7 @@ include("assets/includes/main-header.php"); // Main head ?>
       </address>
       <hr />
       <p>
-        <b>ZK Garden SF:</b>
+        <b>Zen Kei Meditation Garden:</b>
         You can also find us on Sunny Tuesdays and Thursdays 1:30p-2:30p in Howard & Langton Community Garden
       </p>
       <address>
