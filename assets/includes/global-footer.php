@@ -3,8 +3,6 @@
 BEST PRACTICE: Include Javascripts after the content has been loaded.
 */
 ?>
-<script src="assets/js/jquery.min.js"></script>
-<script src="assets/js/bootstrap.min.js"></script>
 <script src="assets/js/custom-shared.js"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137268338-1"></script>
