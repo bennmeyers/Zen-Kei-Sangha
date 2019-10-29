@@ -12,9 +12,9 @@ BEST PRACTICE: A copyright with a year range protects content.
     </div>
     <div class="col-md-6">
       <div class="social">
-          <a href="https://www.facebook.com/groups/169278456552524/" target="blank"><i class="fab fa-facebook"></i></a>
-          <a href="https://twitter.com/ZenKeiSangha" target="blank"><i class="fab fa-twitter"></i></a>
-          <a href="https://calendar.google.com/calendar?cid=emVua2Vpc2FuZ2hhQGdtYWlsLmNvbQ" target="blank"><i class="fa fa-calendar-alt" aria-hidden="true"></i></a>
+          <a href="https://www.facebook.com/groups/169278456552524/" target="blank" name="facebook"><i class="fab fa-facebook"></i></a>
+          <a href="https://twitter.com/ZenKeiSangha" target="blank" name="twitter"><i class="fab fa-twitter"></i></a>
+          <a href="https://calendar.google.com/calendar?cid=emVua2Vpc2FuZ2hhQGdtYWlsLmNvbQ" target="blank" name="calendar link"><i class="fa fa-calendar-alt" aria-hidden="true"></i></a>
       </div>
       <ul class="nav">
         <li><a href="about.php">about</a></li>
