@@ -9,7 +9,7 @@ include("assets/includes/main-header.php"); // Main head ?>
     <div id="main_content">
       <h1>about</h1>
       <main>
-        <p>Zen Kei Sangha is a collection of individuals forming a Sangha with the intention of learning about dharma and acting it out in a way which improves the lives of the homeless, those addicted to substances, or are not otherwise recognized in a society in which they don't feel comfortable. The Sangha offers three weekly public meditations, Harm Reduction Meditation, hospice support, and memorials for residents of Single Room Occupancies​ (SROs).</p>
+        <p>Zenkei Sangha is a collection of individuals forming a Sangha with the intention of learning about dharma and acting it out in a way which improves the lives of the homeless, those addicted to substances, or are not otherwise recognized in a society in which they don't feel comfortable. The Sangha offers three weekly public meditations, Harm Reduction Meditation, hospice support, and memorials for residents of Single Room Occupancies​ (SROs).</p>
         <p>We specialize in <b>Harm Reduction</b> meditation.</p>
         <h3>Principles of Harm Reduction</h3>
         <p>Harm reduction is a set of practical strategies and ideas aimed at reducing negative consequences associated with substance use. Harm Reduction is also a movement for social justice built on a belief in, and respect for, the rights of people who use drugs or alcohol.</p>

@@ -4,13 +4,13 @@
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
     <meta name="viewport" content="width=device-width">
     <meta name="keywords" value="Harm Reduction, Zendo Without Walls, Jana Drakka, SRO, Memorials, American Zen Meditation, Bay Area, Caring, Wheelchairs, LGBTQ, Addiction, Caring, Invisible, Public, Dharma, Glide, Homeless, Buddism, Soto Zen">
-    <meta name="description" content="Zen Kei Sangha offers weekly public Harm Reduction Meditations, hospice support, and memorials for residents of Single Room Occupancies​ (SROs).">
+    <meta name="description" content="Zenkei Sangha offers weekly public Harm Reduction Meditations, hospice support, and memorials for residents of Single Room Occupancies​ (SROs).">
     <?php
     /*
     BEST PRACTICE: The viewport meta tag is needed to make the page responsive.
     */
     ?>
-    <title>Zen Kei Sangha</title>
+    <title>Zenkei Sangha</title>
     <?php
     /*
     BEST PRACTICE: Include Cascading stylesheets before the content has been loaded.

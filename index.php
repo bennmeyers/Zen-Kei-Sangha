@@ -11,15 +11,15 @@ include("assets/includes/main-header.php"); // Main head ?>
         <a href="mailto:zenkeisangha@gmail.com">zenkeisangha@gmail.com</a>
         <br /><b>415 349-3491</b>
       </div>
-      <a href="http://www.paypal.me/zenkeisangha" onclick="ga('send','event','External','Link','PayPal');"><img src="/assets/img/logo.gif" alt="Zen Kei Sangha Logo"></a>
+      <a href="http://www.paypal.me/zenkeisangha" onclick="ga('send','event','External','Link','PayPal');"><img src="/assets/img/logo.gif" alt="Zenkei Sangha Logo"></a>
       <main>
-        <p>Zen Kei Sangha is a collection of individuals forming a Sangha with the intention of learning about dharma and acting it out in a way which improves the lives of the homeless, those addicted to substances, or are not otherwise recognized in a society in which they don't feel comfortable. The Sangha offers three weekly public meditations, Harm Reduction Meditation, hospice support, and memorials for residents of Single Room Occupancies​ (SROs).</p>
+        <p>Zenkei Sangha is a collection of individuals forming a Sangha with the intention of learning about dharma and acting it out in a way which improves the lives of the homeless, those addicted to substances, or are not otherwise recognized in a society in which they don't feel comfortable. The Sangha offers three weekly public meditations, Harm Reduction Meditation, hospice support, and memorials for residents of Single Room Occupancies​ (SROs).</p>
         <p>We specialize in <b>Harm Reduction</b> meditation.</p>
       </main>
 
       <hr />
       <p>
-        <b>Zen Kei Meditation Glide:</b>
+        <b>Zenkei Meditation Glide:</b>
         We meet Mondays 6:30p-7:30p at Glide Community Center room 201 (Maya Angelou Room)
       </p>
       <address>
@@ -28,7 +28,7 @@ include("assets/includes/main-header.php"); // Main head ?>
       </address>
       <hr />
       <p>
-        <b>Zen Kei Meditation Garden:</b>
+        <b>Zenkei Meditation Garden:</b>
         You can also find us on Sunny Tuesdays and Thursdays 1:30p-2:30p in Howard & Langton Community Garden
       </p>
       <address>

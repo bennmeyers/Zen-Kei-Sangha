@@ -8,7 +8,7 @@ include("assets/includes/main-header.php"); // Main head ?>
   <div id="content">
     <div id="main_content">
       <h1>resources</h1>
-      <p>The Zen Kei Sangha is the next generation of Rev. Jana Drakka's Zenkei Zen Sangha, which continues the tradition of caring Jana established.
+      <p>The Zenkei Sangha is the next generation of Rev. Jana Drakka's Zenkei Zen Sangha, which continues the tradition of caring Jana established.
       <br><a href="https://web.archive.org/web/20111110094559/http://janadrakka.com/" target="_blank">Zenkei wayback machine archive</a></p>
       <p>These are some of the other services or zendo's we support.</p>
       <ul>
