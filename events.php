@@ -9,7 +9,7 @@ include("assets/includes/main-header.php"); // Main head ?>
     <div id="main_content">
       <h1>events</h1>
       <p>
-        <b>Zenkei Meditation Glide:</b>
+        <b>Zenkei Glide Meditation:</b>
         We meet Mondays 6:30p-7:30p at Glide Community Center room 201 (Maya Angelou Room)
       </p>
       <address>
@@ -18,7 +18,7 @@ include("assets/includes/main-header.php"); // Main head ?>
       </address>
       <hr />
       <p>
-        <b>Zenkei Meditation Garden:</b>
+        <b>Zenkei Garden Meditation:</b>
         You can also find us on sunny Tuesdays and Thursdays 1:30p-2:30p in Howard &amp; Langton Community Garden
       </p>
       <address>
