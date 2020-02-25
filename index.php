@@ -18,7 +18,7 @@ include("assets/includes/main-header.php"); // Main head ?>
       </main>
       <hr />
       <p>
-        We're walking in walk MS! Please join our team in walking on <b>April 27, 2020</b> and donate to a GREAT cause: <a href="https://secure.nationalmssociety.org/site/TR?fr_id=31021&pg=team&team_id=615991" target="new">https://secure.nationalmssociety.org/site/TR?fr_id=31021&pg=team&team_id=615991</a>.
+        We're walking in <a href="https://secure.nationalmssociety.org/site/TR?fr_id=31021&pg=entry" target="_blank">Walk MS</a>! Please join our team in walking on <b>April 26, 2020 at 9am</b> and donate to a GREAT cause: <a href="https://secure.nationalmssociety.org/site/TR?fr_id=31021&pg=team&team_id=615991" target="new">https://secure.nationalmssociety.org/site/TR?fr_id=31021&pg=team&team_id=615991</a>.
       </p>
       <hr />
       <p>
