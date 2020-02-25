@@ -16,7 +16,10 @@ include("assets/includes/main-header.php"); // Main head ?>
         <p>Zenkei Sangha is a collection of individuals forming a Sangha with the intention of learning about dharma and acting it out in a way which improves the lives of the homeless, those addicted to substances, or are not otherwise recognized in a society in which they don't feel comfortable. The Sangha offers three weekly public meditations, Harm Reduction Meditation, hospice support, and memorials for residents of Single Room Occupancies​ (SROs).</p>
         <p>We specialize in <b>Harm Reduction</b> meditation.</p>
       </main>
-
+      <hr />
+      <p>
+        We're walking in walk MS! Please join our team in walking on <b>April 27, 2020</b> and donate to a GREAT cause: <a href="https://secure.nationalmssociety.org/site/TR?fr_id=31021&pg=team&team_id=615991" target="new">https://secure.nationalmssociety.org/site/TR?fr_id=31021&pg=team&team_id=615991</a>.
+      </p>
       <hr />
       <p>
         <b>Zenkei Glide Meditation:</b>

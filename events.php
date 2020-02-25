@@ -9,6 +9,10 @@ include("assets/includes/main-header.php"); // Main head ?>
     <div id="main_content">
       <h1>events</h1>
       <p>
+        We're walking in walk MS! Please join our team in walking on <b>April 27, 2020</b> and donate to a GREAT cause: <a href="https://secure.nationalmssociety.org/site/TR?fr_id=31021&pg=team&team_id=615991" target="new">https://secure.nationalmssociety.org/site/TR?fr_id=31021&pg=team&team_id=615991</a>.
+      </p>
+      <hr />
+      <p>
         <b>Zenkei Glide Meditation:</b>
         We meet Mondays 6:30p-7:30p at Glide Community Center room 201 (Maya Angelou Room)
       </p>
