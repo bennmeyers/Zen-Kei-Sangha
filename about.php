@@ -23,6 +23,9 @@ include("assets/includes/main-header.php"); // Main head ?>
         <p>Affirms users themselves as the primary agents of reducing the harms of their use, and seeks to empower users to share information and support each other in strategies which meet their actual conditions of use.</p>
         <p>Recognizes that the realities of poverty, class, racism, social isolation, past trauma, sex-based discrimination and other social inequalities affect both people’s vulnerability to and capacity for effectively dealing with substance-related harm.</p>
         <p>Does not attempt to minimize or ignore the real and tragic harm and danger associated with licit and illicit substance use.</p>
+        <h3>Jana</h3>
+        <p>Rev Jana Drakka started teaching Harm Reduction and ordained two priests to continue working towards opening new paths.</p>
+        <img src="assets/img/IMG_0098.JPG" alt="Jana Drakka on the path">
       </main>
     </div><!-- #main_content -->
   </div><!-- #content -->
