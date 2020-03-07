@@ -17,6 +17,7 @@ BEST PRACTICE: A copyright with a year range protects content.
           <a href="https://calendar.google.com/calendar?cid=emVua2Vpc2FuZ2hhQGdtYWlsLmNvbQ" target="blank" name="calendar link"><i class="fa fa-calendar-alt" aria-hidden="true"></i></a>
       </div>
       <ul class="nav">
+        <li><a href="index.php">home</a></li>
         <li><a href="about.php">about</a></li>
         <li><a href="contact.php">contact</a></li>
         <li><a href="events.php">events</a></li>
