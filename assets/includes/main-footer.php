@@ -5,6 +5,7 @@ BEST PRACTICE: A copyright with a year range protects content.
 ?>
 <footer>
   <a class="btn btn-primary" href="http://www.paypal.me/zenkeisangha">Donate to us!</a>
+  <hr />
   <div class="row">
     <div class="col-md-6">
       <a href="mailto:zenkeisangha@gmail.com">zenkeisangha@gmail.com</a>
