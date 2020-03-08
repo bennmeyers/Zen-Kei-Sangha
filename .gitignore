@@ -2,7 +2,6 @@
 *.css.map
 *.sass.map
 *.scss.map
-*.scss
 
 .DS_Store
 # Local

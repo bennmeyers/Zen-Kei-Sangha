@@ -1,0 +1,52 @@
+// Definitions
+
+$black:           #000;
+$blue:            #428bca;
+$green:           #42ca8b;
+$grey:            #555;
+$orange:          #ca8bca;
+$purple:          #ca42ca;
+$red:             #ca8b42;
+$yellow:          #8ccaca;
+$white:           #fff;
+
+$link-color:      $blue;
+$link-hover-color:darken($link-color, 30%);
+$font-color:      #333;
+$divider-color:   #ccc;
+$shadow-color:    rgba(0,0,0,0.4);
+$primary-color:   #000;
+$success-color:   $green;
+$warning-color:   $orange;
+$danger-color:    $red;
+$info-color:      $blue;
+$status-color:    $red;
+
+$gutter:         16px;
+
+$spacer:         16px;
+
+$base-font:      'Bubbler One', Helvetica, Geneva, sans-serif;
+
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+      -ms-border-radius: $radius;
+          border-radius: $radius;
+}
+
+@mixin box-shadow($top, $left, $blur, $color, $inset:"") {
+  -webkit-box-shadow:$top $left $blur $color #{$inset};
+  -moz-box-shadow:$top $left $blur $color #{$inset};
+  box-shadow:$top $left $blur $color #{$inset};
+}
+
+@media screen and (min-width: 768px) {
+  /* Medium devices (tablets, 768px and up) */
+}
+@media screen and (min-width: 992px) {
+  /* Large devices (desktops, 992px and up) */
+}
+@media screen and (min-width: 1200px) {
+  /* Extra large devices (large desktops, 1200px and up) */
+}
