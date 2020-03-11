@@ -22,7 +22,7 @@ html {
 
 body {
   color: $font-color;
-  margin: 10px 0;
+  margin: $spacer/2 0;
   padding: 0;
   font: $font-size $base-font;
 }
@@ -39,7 +39,7 @@ a:visited {
 header .navbar-nav {
   float: none;
   margin: 0 auto;
-  width: 325px;
+  width: 346px;
 }
 
 .navbar-nav {
@@ -47,9 +47,9 @@ header .navbar-nav {
 }
 
 .navbar-nav > li > a {
-  padding-top: 10px;
-  padding-bottom: 10px;
-  line-height: 20px;
+  padding-top: $spacer/2;
+  padding-bottom: $spacer/2;
+  line-height: $spacer;
 }
 
 @media (min-width: 768px) {
@@ -109,7 +109,7 @@ header .navbar-nav {
 .nav > li > a {
   position: relative;
   display: block;
-  padding: 10px 15px;
+  padding: $spacer/2 $spacer;
 }
 
 .nav > li > a:hover,
@@ -134,8 +134,8 @@ header .navbar-nav {
 .container-fluid > .navbar-header,
 .container > .navbar-collapse,
 .container-fluid > .navbar-collapse {
-  margin-right: -15px;
-  margin-left: -15px;
+  margin-right: -$gutter;
+  margin-left: -$gutter;
 }
 
 @media (min-width: 768px) {
@@ -151,7 +151,7 @@ header .navbar-nav {
 @media (min-width: 768px) {
 	.navbar > .container .navbar-brand,
 	.navbar > .container-fluid .navbar-brand {
-	  margin-left: -15px;
+	  margin-left: -$gutter
 	}
 }
 
@@ -175,8 +175,8 @@ header .navbar-nav {
 }
 
 .container {
-	padding-right: 15px;
-	padding-left: 15px;
+	padding-right: $gutter;
+	padding-left: $gutter;
 	margin-right: auto;
 	margin-left: auto;
 }
@@ -200,8 +200,8 @@ header .navbar-nav {
 }
 
 .row {
-	margin-right: -15px;
-	margin-left: -15px;
+	margin-right: -$gutter;
+	margin-left: -$gutter;
 }
 
 input,
@@ -220,22 +220,10 @@ fieldset {
 	border: 0;
 }
 
-legend {
-	display: block;
-	width: 100%;
-	padding: 0;
-	margin-bottom: 20px;
-	font-size: 21px;
-	line-height: inherit;
-	color: #333;
-	border: 0;
-	border-bottom: 1px solid $offwhite;
-}
-
 label {
 	display: inline-block;
 	max-width: 100%;
-	margin-bottom: 5px;
+	margin-bottom: $gutter/3;
 	font-weight: bold;
 }
 
@@ -273,20 +261,12 @@ input[type="checkbox"]:focus {
 	outline-offset: -2px;
 }
 
-output {
-	display: block;
-	padding-top: 7px;
-	font-size: 14px;
-	line-height: 1.42857143;
-	color: $grey;
-}
-
 .form-control {
 	display: block;
 	width: 100%;
 	height: 34px;
 	padding: 6px 12px;
-	font-size: 14px;
+	font-size: $font-size;
 	line-height: 1.42857143;
 	color: $grey;
 	background-color: $white;
@@ -377,30 +357,28 @@ input[type="search"] {
 }
 
 .form-group {
-	margin-bottom: 15px;
+	margin-bottom: $spacer;
 }
 
 .radio,
 .checkbox {
 	position: relative;
 	display: block;
-	margin-top: 10px;
-	margin-bottom: 10px;
+	margin-top: $spacer;
+	margin-bottom: $spacer;
 }
 
 .radio label,
 .checkbox label {
-	min-height: 20px;
-	padding-left: 20px;
+	min-height: $spacer;
+	padding-left: $spacer;
 	margin-bottom: 0;
 	font-weight: normal;
 	cursor: pointer;
 }
 
 .radio input[type="radio"],
-.radio-inline input[type="radio"],
-.checkbox input[type="checkbox"],
-.checkbox-inline input[type="checkbox"] {
+.checkbox input[type="checkbox"]{
 	position: absolute;
 	margin-top: 4px \9;
 	margin-left: -20px;
@@ -421,13 +399,13 @@ h6 {
 h1,
 h2,
 h3 {
-  margin-top: 20px;
-  margin-bottom: 10px;
+  margin-top: $spacer;
+  margin-bottom: $spacer;
 }
 
 h1 small,
 h2 small,
-h3 small, {
+h3 small {
   font-size: 65%;
 }
 
@@ -554,8 +532,8 @@ footer .nav>li>a,footer .nav>li>a:link,footer .nav>li>a:hover {
 [class*="col-"] {
 	position: relative;
 	min-height: 1px;
-	padding-right: 15px;
-	padding-left: 15px;
+	padding-right: $spacer;
+	padding-left: $spacer;
 }
 
 [class*="col-xs"] {
@@ -1440,7 +1418,7 @@ footer .nav>li>a,footer .nav>li>a:link,footer .nav>li>a:hover {
 	*,
 	*:before,
 	*:after {
-		color: #000 !important;
+		color: $black !important;
 		text-shadow: none !important;
 		background: transparent !important;
 		box-shadow: none !important;
