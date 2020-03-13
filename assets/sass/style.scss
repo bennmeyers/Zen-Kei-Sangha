@@ -1479,11 +1479,11 @@ footer .nav>li>a,footer .nav>li>a:link,footer .nav>li>a:hover {
 
 	.btn > .caret,
 	.dropup > .btn > .caret {
-		border-top-color: #000 !important;
+		border-top-color: $black !important;
 	}
 
 	.label {
-		border: 1px solid #000;
+		border: 1px solid $black;
 	}
 
 	.table {
