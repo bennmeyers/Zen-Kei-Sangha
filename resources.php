@@ -7,7 +7,13 @@ include("assets/includes/main-header.php"); // Main head ?>
 <div id="resources" class="container">
   <div id="content">
     <div id="main_content">
-      <h1>resources</h1>
+      <h1>audio</h1>
+        <ul>
+          <li>https://www.youtube.com/watch?v=v6b44Q2Uexg Faithful Fools</li>
+          <li>https://www.youtube.com/watch?v=tGr-NYLjLOY Faithful Fools</li>
+          <li>https://www.youtube.com/watch?v=wSmQdwMI5lk Faithful Fools</li>
+        </ul>
+      <h1>outside resources</h1>
       <p>The Zenkei Sangha is the next generation of Rev. Jana Drakka's Zenkei Zen Sangha, which continues the tradition of caring Jana established.
       <br><a href="https://web.archive.org/web/20111110094559/http://janadrakka.com/" target="_blank">Zenkei wayback machine archive</a></p>
       <p>These are some of the other services or zendo's we support.</p>
