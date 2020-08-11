@@ -7,14 +7,16 @@ include("assets/includes/main-header.php"); // Main head ?>
 <div id="resources" class="container">
   <div id="content">
     <div id="main_content">
-      <h1>audio</h1>
+      <h1>jana talks</h1>
       <h2>faithful fools</h2>
+      <h3>video</h3>
       <ul>
-        <li>https://www.youtube.com/watch?v=v6b44Q2Uexg</li>
-        <li>https://www.youtube.com/watch?v=tGr-NYLjLOY</li>
-        <li>https://www.youtube.com/watch?v=wSmQdwMI5lk</li>
+        <li>2009, 01 31 - https://www.youtube.com/watch?v=v6b44Q2Uexg</li>
+        <li>2009, 01 31 - https://www.youtube.com/watch?v=tGr-NYLjLOY</li>
+        <li>2009, 01 31 - https://www.youtube.com/watch?v=wSmQdwMI5lk</li>
       </ul>
       <h2>gay buddhist fellowship</h2>
+      <h3>audio</h3>
       <ul>
         <li>2009, 07 29</li>
         <li>2009, 08 30</li>
@@ -27,6 +29,25 @@ include("assets/includes/main-header.php"); // Main head ?>
         <li>2015, 05 17</li>
         <li>2016, 04 17</li>
       </ul>
+      <h3>video</h3>
+      <ul>
+        <li>2010, 12 10 - https://www.youtube.com/watch?v=8nLcsCC3DBs: The Fourth Noble Truth: Right Speech, Right Action, and Right Livelihood</li>
+      </ul>
+      <h2>gay buddhist sangha</h2>
+      <h3>audio</h3>
+      <ul>
+        <li>2008, 12 03</li>
+        <li>2010, 06 02</li>
+      </ul>
+      <h3>video</h3>
+      <ul>
+        <li>2010, 07 25 - https://www.youtube.com/watch?time_continue=2&v=6FULZyWdDsQ</li>
+        <li>2010, 07 25 - http://www.youtube.com/watch?v=U3-6er-ppyw</li>
+        <li>2010, 07 25 - http://www.youtube.com/watch?v=1ovyr8bsDMY</li>
+        <li>2010, 07 25 - http://www.youtube.com/watch?v=kealowwahac</li>
+        <li>2010, 07 25 - http://www.youtube.com/watch?v=qhT2DwSv8d4</li>
+      </ul>
+
       <h1>outside resources</h1>
       <p>The Zenkei Sangha is the next generation of Rev. Jana Drakka's Zenkei Zen Sangha, which continues the tradition of caring Jana established.
       <br><a href="https://web.archive.org/web/20111110094559/http://janadrakka.com/" target="_blank">Zenkei wayback machine archive</a></p>
