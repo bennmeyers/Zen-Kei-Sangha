@@ -31,8 +31,19 @@ include("assets/includes/main-header.php"); // Main head ?>
 </div><!-- #homepage -->
 <?php include("assets/includes/global-footer.php"); // HTML foot ?>
 <script type="text/javascript">
-</script>
+var url = "resources.csv";
 
-// "resources.csv".readAsArrayBuffer()
-// document.getElementById('txt').innerHTML = "content";
+var request = new XMLHttpRequest();  
+request.open("GET", url, false);   
+request.send(null);  
+
+var csvData = new Array();
+var jsonObject = request.responseText.split(/\r?\n|\r/);
+for (var i = 0; i < jsonObject.length; i++) {
+  csvData.push(jsonObject[i].split(','));
+  csvData.push("<br>");
+}
+// Retrived data from csv file content
+document.getElementById('txt').innerHTML = csvData;
+</script>
 </script>
