@@ -113,7 +113,7 @@
   <?php } ?>
   </div><!-- #form -->
   <style>
-    /* built by Benjamin Meyers for pop-up Zendo */
+    /* v.2 built by Benjamin Meyers */
     body {font-family:Times serif;font-size:24px;}
     #pre,#post {color:#333;display:block;position:absolute;}
     #pre {z-index: 1;}
