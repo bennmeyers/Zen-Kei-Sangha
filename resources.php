@@ -45,7 +45,7 @@ for (var i = 0; i < jsonObjectTR.length; i++) {
     // csvData.push(jsonObjectTR[i].join('<tr>'));
     // echo csvData.push(tableR);
 }
-csvData.push('</table>')
 // Retrived data from csv file content
-document.getElementById('txt').innerHTML = csvData;
+csvData.push('</table>')
+document.getElementById('txt').innerHTML = csvData; // insert the table on to the page
 </script>
