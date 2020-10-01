@@ -38,12 +38,14 @@ request.open("GET", url, false);
 request.send(null);  
 
 var csvData = new Array();
-var jsonObject = request.responseText.split(/\r?\n|\r/);
-for (var i = 0; i < jsonObject.length; i++) {
-  csvData.push(jsonObject[i].split(','));
-  csvData.push("<br>");
+var jsonObjectTR = request.responseText.split('\n');
+
+csvData.push('<table class="table table-striped">')
+for (var i = 0; i < jsonObjectTR.length; i++) {
+    // csvData.push(jsonObjectTR[i].join('<tr>'));
+    // echo csvData.push(tableR);
 }
+csvData.push('</table>')
 // Retrived data from csv file content
 document.getElementById('txt').innerHTML = csvData;
-</script>
 </script>
